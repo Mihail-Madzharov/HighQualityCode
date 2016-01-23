@@ -1,0 +1,5 @@
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTest\bin\Debug\SOLIDTest.dll
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTest\bin\Debug\SOLIDTest.pdb
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTest\obj\Debug\SOLIDLib.csprojResolveAssemblyReference.cache
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTest\obj\Debug\SOLIDTest.dll
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTest\obj\Debug\SOLIDTest.pdb

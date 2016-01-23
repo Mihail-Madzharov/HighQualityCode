@@ -1,0 +1,8 @@
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTesting\bin\Debug\SOLIDTesting.exe.config
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTesting\bin\Debug\SOLIDTesting.exe
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTesting\bin\Debug\SOLIDTesting.pdb
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTesting\bin\Debug\SOLIDTest.dll
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTesting\bin\Debug\SOLIDTest.pdb
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTesting\obj\Debug\SOLIDTesting.csprojResolveAssemblyReference.cache
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTesting\obj\Debug\SOLIDTesting.exe
+C:\Users\mihai\Desktop\HQC\SolidPrinciples\SOLIDTesting\obj\Debug\SOLIDTesting.pdb
